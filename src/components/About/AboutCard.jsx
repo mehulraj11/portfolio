@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Mehul Raj </span>
             from <span className="purple"> Muzaffarpur, India.</span>
             <br />
-            I am currently pursuing my post graduation degree at RIT Roorkee.
+            I am currently pursuing my MCA degree at RIT Roorkee.
             <br />
             I am learning and building projects into Full Stack Development.
             <br />

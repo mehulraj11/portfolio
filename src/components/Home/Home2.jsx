@@ -19,30 +19,30 @@ function Home2() {
               WHO AM <span className="purple"> I </span> ?
             </h1>
             <p className="home-about-body">
-             A Post Grad learning and building Full Stack Development.
+             A Post Graduate Stduent building Full Stack Projects.
               <br />
-              <br />Good in classics like
+              <br />Good at: 
               <i>
-                <b className="purple"> C++, Javascript and Java. </b>
+                <b className="purple"> C++, Javascript, TypeScript and Java. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                also learning{" "}
                 <b className="purple">
                   Blockchain.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              Whenever possible, I always apply my passion for developing products
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Libraries and Frameworks
                 </b>
               </i>
               &nbsp; like

@@ -11,11 +11,11 @@ import {
   DiJava,
 } from "react-icons/di";
 import {
-  SiFirebase,
   SiRedux,
   SiEjs,
   SiMysql,
   SiSocketdotio,
+  SiExpress
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -26,10 +26,16 @@ function Techstack() {
         <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiExpress />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiEjs />
@@ -50,16 +56,10 @@ function Techstack() {
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiSocketdotio />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
       </Col>
     </Row>
   );
