@@ -19,7 +19,7 @@ function Home2() {
               WHO AM <span className="purple"> I </span> ?
             </h1>
             <p className="home-about-body">
-             A Post Grad learning and practicing Full Stack Development.
+             A Post Grad learning and building Full Stack Development.
               <br />
               <br />Good in classics like
               <i>
