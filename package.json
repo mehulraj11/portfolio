@@ -21,7 +21,7 @@
     "react-parallax-tilt": "^1.7.300",
     "react-pdf": "^10.0.1",
     "react-router-dom": "^7.6.3",
-    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^3.8.1",
     "typewriter-effect": "^2.22.0"
   },
   "devDependencies": {
