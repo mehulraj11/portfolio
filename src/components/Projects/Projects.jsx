@@ -4,6 +4,7 @@ import Particle from "../Particle";
 import expense_tracker from "../../assets/Projects/expense_tracker.png";
 import helpdesk from "../../assets/Projects/helpdesk.png";
 import leaderboard from "../../assets/Projects/leaderboard.PNG";
+import url from "../../assets/Projects/URL.PNG";
 
 function Projects() {
   return (
@@ -46,6 +47,16 @@ function Projects() {
               selected user, and dynamically display user rankings based on total points. The backend is developed using NodeJS, and the frontend has been built using ReactJS and TailwindCSS."
               ghLink="https://github.com/mehulraj11/leaderboard3w/tree/master"
               demoLink="https://leaderboard-mhvats.onrender.com/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={url}
+              isBlog={false}
+              title="Url-Shortener"
+              description="A MERN stack app where users submit long URLs to get shortened links. Backend stores URL mappings and handles redirects. Optionally, an admin panel lists all shortened URLs, tracks click counts."
+              ghLink=" https://github.com/mehulraj11/url-shortner"
+              demoLink="https://url-shortner-xi-steel.vercel.app/"
             />
           </Col>
         </Row>
